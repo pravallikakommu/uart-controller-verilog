@@ -1,0 +1,27 @@
+# Quartus generated folders
+db/
+incremental_db/
+output_files/
+
+# Quartus workspace
+*.qws
+
+# Reports
+*.rpt
+
+# Backup files
+*.bak
+
+# Simulation outputs
+*.vcd
+*.wlf
+*.vo
+*.sft
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
